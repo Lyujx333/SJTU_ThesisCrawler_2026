@@ -3,12 +3,13 @@
 上海交大学位论文系统爬取下载工具
 
 ## 背景与问题：
-[http://thesis.lib.sjtu.edu.cn/](http://thesis.lib.sjtu.edu.cn/)，该网站是上海交通大学的学位论文下载系统，收录了交大的硕士博士的论文。
-该系统不便之处在于：
-  1.加载缓慢，来回翻阅不便
-  2.无法离线查阅，不能想在哪看在哪看
-  3.使用手机平板查阅时极其不方便
-有学长曾经做过(https://github.com/olixu/SJTU_Thesis_Crawler)，该方案目前2026年已失效，因此这里提供新的解决方案。
+[http://thesis.lib.sjtu.edu.cn/](http://thesis.lib.sjtu.edu.cn/)，该网站是上海交通大学的学位论文下载系统，收录了交大的硕士博士的论文。\
+该系统不便之处在于：\
+  1.加载缓慢，来回翻阅不便\
+  2.无法离线查阅，不能想在哪看在哪看\
+  3.使用手机平板查阅时极其不方便\
+有学长曾经做过(https://github.com/olixu/SJTU_Thesis_Crawler)
+但该方案目前2026年已失效，因此这里提供新的解决方案。
 
 ## 配置要求：
 参考requirements.txt
